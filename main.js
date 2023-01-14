@@ -1,0 +1,1 @@
+var game = new Phaser.game(600,400,Phaser.AUTO);
